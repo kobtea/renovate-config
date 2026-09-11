@@ -3,7 +3,7 @@
     "validate": "find . -maxdepth 1 -name '*.json' ! -name 'package.json' | xargs renovate-config-validator --no-global"
   },
   "devDependencies": {
-    "renovate": "43.150.0"
+    "renovate": "43.288.0"
   },
   "engines": {
     "node": "^24.11.0",
